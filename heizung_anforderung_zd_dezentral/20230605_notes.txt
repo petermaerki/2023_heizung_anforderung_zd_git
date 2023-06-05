@@ -1,0 +1,8 @@
+Peter Maerki 2023-06-05_14_42_36
+
+15 plus 11 = 26 Stück. plus 2 Stück reserve mit allen halbleitern bestückt.
+Bestückt gemäss libre office calc.
+Widerstände kann ich selber bestücken.
+
+Gehäuse gedruckt,  fix zu geschraubt. kabel rein kabel raus, eine ader aufgeschnitten und mit wago? 
+so leicht dass einfach im kabel, keine halterung irgendwo. Kabelbinder für kabel.
