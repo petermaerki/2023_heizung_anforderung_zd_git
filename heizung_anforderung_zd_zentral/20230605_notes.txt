@@ -5,6 +5,9 @@ Transparentes Gehäuse
 Pico mit Display in Deckel geschraubt
 Robuste Klemmen für 25V, Relaiskontakt und Fernleitung, gut beschriftet...im Deckel?
 
+Beispiele Pico eingebaut
+https://photos.app.goo.gl/hn4Fi95qYNcaUMyy7
+
 Beschriftung, steht auch ganz klein hinten auf PICO
 
 pico_puent
