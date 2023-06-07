@@ -6,3 +6,5 @@ Widerstände kann ich selber bestücken.
 
 kommt in das Elfero Reglergehäuse.
 Klein, seitlich Kabelschwänze, transparenter Schrumpfschlauch, Trimmer schaut raus?
+
+Anschluss eine Seite auf Pin 5 vom Elfero Regler, andere Seite verbinden mit Weissem Kabel welches jetzt in Pin 5 geht. Im Gehäuse oben mitte rein drücken, allenfalls Kabelbinder damit es nicht raus quillt.
