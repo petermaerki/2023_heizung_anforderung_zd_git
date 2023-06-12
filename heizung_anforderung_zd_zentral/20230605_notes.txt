@@ -12,3 +12,6 @@ Beschriftung, steht auch ganz klein hinten auf PICO
 
 pico_puent
 pico_bochs
+
+
+genuegend platz, einige überzählige klemmen.
