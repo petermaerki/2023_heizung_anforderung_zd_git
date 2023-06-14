@@ -11,7 +11,8 @@ zusätzliche Klemme mit K2 verbunden: ?
 
 
 Text K2 K3
-Von Speicher dezentral.
+"Waermeanforderung_dezentral"
+Von den Speichern dezentral.
 Relaiskontakt und Zenerdiode in Serie.
 Relaiskontakt geschlossen: Spannung kleiner 20V: Wärmeanforderung
 Relaiskontakt offen, kein Strom, Spannung ca. 23V: keine Wärmeanforderung
@@ -20,6 +21,7 @@ K2-> Fernleitung gelb(gelb/weiss)
 K3-> Fernleitung weiss(gelb/weiss)
 
 K11K12
+"Ventile_dezentral_oeffnen"
 An Ventile dezentral.
 Dezentral: Relaisspule.
 Bei 24V, 20mA pro Relais: Ventil "öffnen!"
@@ -29,11 +31,11 @@ K12-> Fernleitung weiss(blau/weiss)
 
 Text K9K10
 Von Heizung
-Relaiskontakt geschlossen: "Ventile dezentral öffnen!"
+Relaiskontakt geschlossen: "Ventile_oeffnen"
 
 Text K4K5
 An Heizung
-Relaiskontakt geschlossen: "Wärmeanforderung!"
+Relaiskontakt geschlossen: "Waermeanforderung_zentrale"
 
 
 RP Pico mit OLED:
