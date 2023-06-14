@@ -1,6 +1,15 @@
 Dioden: allenfalls hoeherer Strom damit Kurzschlusssicher?
 Vorwiderstand LED 47k: reicht dieser Strom?
 
+K14
+"+24V, 0.5A max"
+K15
+0V
+
+zusätzliche Klemme mit K2 verbunden: ?
+"Hier kann die Spannung der Fernleitung mit Multimeter gemessen werden."
+
+
 Text K2 K3
 Von Speicher dezentral.
 Relaiskontakt und Zenerdiode in Serie.
