@@ -1,0 +1,32 @@
+Dioden: allenfalls hoeherer Strom damit Kurzschlusssicher?
+Vorwiderstand LED 47k: reicht dieser Strom?
+
+Text K2 K3
+Von Speicher dezentral.
+Relaiskontakt und Zenerdiode in Serie.
+Relaiskontakt geschlossen: Spannung kleiner 20V: Wärmeanforderung
+Relaiskontakt offen, kein Strom, Spannung ca. 23V: keine Wärmeanforderung
+
+K2-> Fernleitung gelb(gelb/weiss)
+K3-> Fernleitung weiss(gelb/weiss)
+
+K11K12
+An Ventile dezentral.
+Dezentral: Relaisspule.
+Bei 24V, 20mA pro Relais: Ventil "öffnen!"
+
+Text K9K10
+Von Heizung
+Relaiskontakt geschlossen: "Ventile dezentral öffnen!"
+
+Text K4K5
+An Heizung
+Relaiskontakt geschlossen: "Wärmeanforderung!"
+
+
+RP Pico mit OLED:
+Text:
+Überwachung mit Mikrokontroller.
+Wichtig für die Optimierung der Heizung in den ersten Jahren.
+Die Heizung funktioniert auch ohne diese Überwachung. 
+
