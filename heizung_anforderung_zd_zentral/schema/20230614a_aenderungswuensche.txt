@@ -24,6 +24,9 @@ An Ventile dezentral.
 Dezentral: Relaisspule.
 Bei 24V, 20mA pro Relais: Ventil "öffnen!"
 
+K11-> Fernleitung blau(blau/weiss)
+K12-> Fernleitung weiss(blau/weiss)
+
 Text K9K10
 Von Heizung
 Relaiskontakt geschlossen: "Ventile dezentral öffnen!"
