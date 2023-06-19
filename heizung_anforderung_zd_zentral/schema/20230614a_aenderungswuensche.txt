@@ -1,24 +1,38 @@
-Dioden: allenfalls hoeherer Strom damit Kurzschlusssicher?
-Vorwiderstand LED 47k: reicht dieser Strom?
+Peter Maerki 2023-06-18_10_02_35
 
-K14
+-> super cool!!!
+
+Unten an Pico hat es noch den Text
+"Fernleitung weiss(blau/weiss)"
+-> hier löschen.
+
+
+Wago Klemme dezentral? Hat es da einen Hebel zum lösen?
+
+
+---------------------------- Erledigt:  16.06.2023 AB ------------------------
+
+Dioden: allenfalls hoeherer Strom damit Kurzschlusssicher? ->  Neu 2A 60V
+Vorwiderstand LED 47k: reicht dieser Strom?	->  Sehr effiziente LED
+
+K1
 "+24V, 0.5A max"
-K15
+K2
 0V
 
 zusätzliche Klemme mit K2 verbunden: ?
 "Hier kann die Spannung der Fernleitung mit Multimeter gemessen werden."
 
 
-Text K2 K3
+Text K3 K4
 "Waermeanforderung_dezentral"
 Von den Speichern dezentral.
 Relaiskontakt und Zenerdiode in Serie.
 Relaiskontakt geschlossen: Spannung kleiner 20V: Wärmeanforderung
 Relaiskontakt offen, kein Strom, Spannung ca. 23V: keine Wärmeanforderung
 
-K2-> Fernleitung gelb(gelb/weiss)
-K3-> Fernleitung weiss(gelb/weiss)
+K3-> Fernleitung gelb(gelb/weiss)
+K4-> Fernleitung weiss(gelb/weiss)
 
 K11K12
 "Ventile_dezentral_oeffnen"
